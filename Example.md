@@ -1,6 +1,8 @@
 Protocol for counting protists via dissecting microscope
 ========================================================
 
+This is a temporary protocol that will be replaced once all protocol and the associated paper is published.
+
 Material / equipment / space
 ----------------------------
 * Dissecting microscope with dark field illumination.
