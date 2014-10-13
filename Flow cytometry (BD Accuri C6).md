@@ -63,5 +63,16 @@ Have one person responsible for tasks such as calibration / validation.
 6. Agitate the plate, carefully by hand, or using the Sampler.
 7. Incubate at 37C for 15min in dark.
 
+### Starting a 96 plate run
+
+
+## Timing
+1. Startup - 20 mins.
+2. 96 well plate preparation - 45 mins (including 15 min incubation).
+3. Starting sampling - 5 mins.
+4. Sampling x mins.
+5. Clean up - 10 mins.
+
+
 
 ## References
