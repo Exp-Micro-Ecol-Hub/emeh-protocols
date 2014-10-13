@@ -6,6 +6,8 @@ The system is the flow cytometer, the plate sampler, and the computer.
 
 Have one person responsible for tasks such as calibration / validation.
 
+This protocol needs to be merged with the appendix.
+
 ## Materials
 
 ### Equipment
