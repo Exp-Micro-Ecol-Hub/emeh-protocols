@@ -23,7 +23,8 @@ Have one person responsible for tasks such as calibration / validation.
 - Cleaning fluid
 - Filtered water
 - 70% ethanol
-- sybr green
+- sybr green (this is stored in the freezer in brown eppendorfs at 100x, so dilute to 10x by mixing 500 ul iwth 4500 ul filtered water).
+
 
 
 ## Procedure
@@ -61,7 +62,6 @@ Have one person responsible for tasks such as calibration / validation.
 5. Add 20 ul sybr green (10x) per well, using the multipipetter plus.
 6. Agitate the plate, carefully by hand, or using the Sampler.
 7. Incubate at 37C for 15min in dark.
-
 
 
 ## References
