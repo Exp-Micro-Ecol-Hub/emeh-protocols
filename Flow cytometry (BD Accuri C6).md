@@ -76,3 +76,10 @@ Have one person responsible for tasks such as calibration / validation.
 
 
 ## References
+Giometto, A., Carrara, F., Rinaldo, A. & Altermatt, F. (2014) Emerging predictable features of replicated biological invasion fronts. Proceedings of the National Academy of Sciences, 111, 297-301.
+Hammes, F. & Egli, T. (2010) Cytometric methods for measuring bacteria in water: advantages, pitfalls and applications. Analytical and Bioanalytical Chemistry, 397, 1083-1095.
+Limberger, R. & Wickham, S. (2011) Competition-colonization trade-offs in a ciliate model community. Oecologia, 167, 723-732.
+Prest, E.I., Hammes, F., Kötzsch, S., van Loosdrecht, M.C.M. & Vrouwenvelder, J.S. (2013) Monitoring microbiological changes in drinking water systems using a fast and reproducible flow cytometric method. Water Research, 47, 7131-7142.
+SLMB (2012) Determining the total cell count and ratios of high and low nucleic acid content cells in freshwater using flow cytometry. Analysis method 333.1. The Swiss Food Codex (Schweizerische Lebensmittelbuch) (ed. S. Federal Office of Public Health).
+Van Nevel, S., Koetzsch, S., Weilenmann, H.-U., Boon, N. & Hammes, F. (2013) Routine bacterial analysis with automated flow cytometry. Journal of Microbiological Methods, 94, 73-76.
+
