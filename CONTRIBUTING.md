@@ -9,3 +9,5 @@ There are two ways to do this:
 2. Use a pull request (the more involved option). See here for more information on [using pull requests](https://help.github.com/articles/using-pull-requests/).
 
 Both are described here: [Contributing to a Project](https://guides.github.com/activities/contributing-to-open-source/#contributing)
+
+Any questions? Email Owen Petchey.
