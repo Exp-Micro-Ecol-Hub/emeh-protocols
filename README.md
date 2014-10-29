@@ -10,4 +10,4 @@ See associated paper [title and link to be added when manuscript is accepted for
 
 Only a couple of example protocols are present until the manuscript is accepted for publication (though all are in the appendix of the submitted manuscript).
 
-Please see the document [CONTRIBUTING.md](CONTRIBUTING) for how to contribute to this repository.
+Please see the document [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to this repository.
