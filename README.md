@@ -6,7 +6,8 @@ Experimental Microbial Ecology Protocols
 
 A repository of protocols associated with Experimental Microbial Ecology (see here [www.emeh.info](http://www.emeh.info) for a description of what this is).
 
-See associated paper [title and link to be added when paper is published]
+See associated paper [title and link to be added when manuscript is accepted for publication.
 
-Protocols will be placed here once an associated paper is published.
+Only a couple of example protocols are present until the manuscript is accepted for publication (though all are in the appendix of the submitted manuscript).
 
+Please see the document [CONTRIBUTING.md](CONTRIBUTING) for how to contribute to this repository.
