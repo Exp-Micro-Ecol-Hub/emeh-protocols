@@ -1,3 +1,6 @@
+Guidelines for contributing
+===========================
+
 We invite you to assist us improve, update, and add to the protocols in this repository.
 
 There are two ways to do this:
