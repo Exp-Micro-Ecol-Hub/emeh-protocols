@@ -1,7 +1,7 @@
 Guidelines for contributing
 ===========================
 
-We invite you to assist us improve, update, and add to the protocols in this repository.
+We invite you to assist us improve, update, and add to the protocols in this repository. Such suggestions will be reviewed by Owen Petchey and or Florian Altermatt, or a delegate of them, potentially discussed, and then either accepted or not. If not accepted, the suggestion and discussion will remain present on this website (as an Issue).
 
 There are two ways to do this:
 
