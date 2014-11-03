@@ -1,7 +1,7 @@
 Protocol for counting protists via dissecting microscope
 ========================================================
 
-This is a temporary protocol that will be replaced once all protocol and the associated paper is published.
+This is a temporary draft/example protocol that will be replaced once the associated paper is accepted for publication.
 
 Material / equipment / space
 ----------------------------
