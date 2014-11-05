@@ -3,5 +3,5 @@ pages:
 - [index.md, Home]
 - [contributing.md, Contributing]
 - [license.md, License]
-- [test protocol.md, A test protocol]
+- [an example protocol.md, An example protocol]
 theme: readthedocs

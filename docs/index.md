@@ -4,7 +4,7 @@ A repository of protocols associated with Experimental Microbial Ecology (see he
 
 See associated paper [title and link to be added when manuscript is accepted for publication].
 
-Only a couple of example protocols are present until the manuscript is accepted for publication (though all are in the appendix of the submitted manuscript).
+Only one example protocol is present until an associated manuscript is accepted for publication (though all are in the appendix of the submitted manuscript).
 
 Please see [here](contributing.md) for how to contribute to this repository.
 
