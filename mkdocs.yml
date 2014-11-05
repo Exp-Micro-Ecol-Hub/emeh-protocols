@@ -1,0 +1,7 @@
+site_name: emeh-protocols
+pages:
+- [index.md, Home]
+- [contributing.md, Contributing]
+- [license.md, License]
+- [test protocol.md, A test protocol]
+theme: readthedocs
