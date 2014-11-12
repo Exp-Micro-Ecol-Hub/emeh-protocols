@@ -2,7 +2,7 @@ Supplementary information
 
 **“Big answers from small worlds: a user's guide for protist microcosms as a model system in ecology and evolution” **
 
-Altermatt F, Fronhofer AE, Garnier A, Giometto A, Hammes F, Klecka J, Legrand D, Mächler E, Massie T, Plebani M, Pennekamp F, Pontarp M, Schtickzelle N, Thuiller V & Petchey O L.
+Altermatt F, Fronhofer AE, Garnier A, Giometto A, Hammes F, Klecka J, Legrand D, Mächler E, Massie T, Plebani M, Pennekamp F, Pontarp M, Schtickzelle N, Thuillier V & Petchey O L.
 
 **1.2 Culture medium **
 
