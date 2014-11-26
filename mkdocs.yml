@@ -1,7 +1,7 @@
 site_name: emeh-protocols
 pages:
-- [index.md, Home]
-- [contributing.md, Contributing]
-- [license.md, License]
-- [Supplement_1.1_Species_used.md, 1.1 Species used]
+- ['index.md', 'Home']
+- ['contributing.md', 'Contributing']
+- ['license.md', 'License']
+- ['Supplement_1.1_Species_used.md', '1.1 Species used']
 theme: readthedocs
