@@ -3,5 +3,5 @@ pages:
 - ['index.md', 'Home']
 - ['contributing.md', 'Contributing']
 - ['license.md', 'License']
-- ['Supplement_1.1_Species_used.md', '1.1 Species used']
+- ['Supplement_1.1_Species_used.md', '1. Materials', '1.1 Species used']
 theme: readthedocs
