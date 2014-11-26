@@ -5,6 +5,6 @@ A repository of protocols associated with Experimental Microbial Ecology (see he
 The protocols first appeared as a supplement to this paper: Supplementary information for Altermatt et al. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.12312
 “Big answers from small worlds: a user's guide for protist microcosms as a model system in ecology and evolution” Altermatt F, Fronhofer EA, Garnier A, Giometto A, Hammes F, Klecka J, Legrand D, Mächler E, Massie TM, Pennekamp F, Plebani M, Pontarp M, Schtickzelle N, Thuillier V & Petchey OL
 
-Please see [here](contributing.md) for how to contribute to this repository.
+Protocols here will be continually developed. Please see [here](contributing.md) for how to contribute to this effort.
 
-Apologies that the citation links do not work. This will be fixed.
+Apologies that the citation links do not work and figures are missing. This will be fixed. If you see other issues, please report them by creating an issue on github (see point 1 [here](contributing.md)). Or it to Owen and he'll do this for you.
