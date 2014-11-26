@@ -2,9 +2,8 @@
 
 A repository of protocols associated with Experimental Microbial Ecology (see here [www.emeh.info](http://www.emeh.info) for a description of what this is).
 
-See associated paper [title and link to be added when manuscript is accepted for publication].
-
-Only one example protocol is present until an associated manuscript is accepted for publication (though all are in the appendix of the submitted manuscript).
+The protocols first appeared as a supplement to this paper: Supplementary information for Altermatt et al. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.12312
+“Big answers from small worlds: a user's guide for protist microcosms as a model system in ecology and evolution” Altermatt F, Fronhofer EA, Garnier A, Giometto A, Hammes F, Klecka J, Legrand D, Mächler E, Massie TM, Pennekamp F, Plebani M, Pontarp M, Schtickzelle N, Thuillier V & Petchey OL
 
 Please see [here](contributing.md) for how to contribute to this repository.
 
