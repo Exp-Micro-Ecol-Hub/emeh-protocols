@@ -56,7 +56,7 @@ For the handling and culturing of protists in microcosms, the following equipmen
 
 -   Small vials to take subcultures (e.g., scintillation vials, 10 or 50 mL PP tubes).
 
-> ![](media/141.png)
+![](media/141.png)
 
 Fig. S1. An exemplary laboratory in which protist microcosm experiments can be conducted. Photo by Florian Altermatt.
 
