@@ -56,22 +56,22 @@ For the handling and culturing of protists in microcosms, the following equipmen
 
 -   Small vials to take subcultures (e.g., scintillation vials, 10 or 50 mL PP tubes).
 
-> ![](media/image1.jpeg)
+> ![](media/141.png)
 
 Fig. S1. An exemplary laboratory in which protist microcosm experiments can be conducted. Photo by Florian Altermatt.
 
-![](media/image2.jpeg)
+![](media/142.png)
 
 Fig. S2. Autoclave used to sterilize protist medium and equipment used for protist experiments. Photo by Florian Altermatt.
 
-![](media/image3.emf)
+![](media/143.png)
 
 Fig. S3. Example of an incubator with individual protist microcosms (showing the experiment by Mächler & Altermatt 2012). The incubator is temperature-controlled (20 °C) and has constant fluorescent lighting. The position of the replicates of each treatment is randomized across the incubator to avoid biases due to position in the incubator. Photo by Elvira Mächler.
 
-![](media/image4.jpeg)
+![](media/144.png)
 
 Fig. S4. Temperature controlled walk-in chambers in which protist experiments can be conducted. At each shelf, homogeneous light-sources are installed (note the insulation above each light to avoid warming of the shelf above it). Photo by Florian Altermatt.
 
-![](media/image5.jpeg)
+![](media/145.png)
 
 Fig. S5. Two working spaces equipped with zoom stereomicroscopes and cameras. Microscopes are equipped with dark field illumination. Note: for working on the microscopes, blinds of the windows would be lowered to avoid reflections and uncontrolled illumination. Next to the microscopes, a calendar is given to reserve slots for individual work-projects. Photo by Florian Altermatt.

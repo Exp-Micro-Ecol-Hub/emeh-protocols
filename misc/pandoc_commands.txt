@@ -1,0 +1,75 @@
+This pandoc command works:
+
+pandoc test.docx -f docx -t markdown_github -s -o test.md
+
+need to modify this for processing multiple files in a directory
+find . -name \*.md -type f -exec pandoc -o {}.txt {} \;
+
+
+find . -name \*.docx -type f -exec {} \;
+
+
+find . -name *.docx -type f -exec pandoc —f {} -t markdown_github -s -o {}.md \;
+
+
+
+
+pandoc Supplement_1.1_Species_used.docx -f docx -t markdown_github -s -o Supplement_1.1_Species_used.md
+
+pandoc Supplement_1.2_CultureMedium.docx -f docx -t markdown_github -s -o Supplement_1.2_CultureMedium.md
+
+pandoc Supplement_1.3_Bacteria.docx -f docx -t markdown_github -s -o Supplement_1.3_Bacteria.md
+
+pandoc Supplement_1.4_Apparatus.docx -f docx -t markdown_github -s -o Supplement_1.4_Apparatus.md
+
+pandoc Supplement_1.5_LabPractices.docx -f docx -t markdown_github -s -o Supplement_1.5_LabPractices.md
+
+pandoc Supplement_1.6_LongtermMaintenance.docx -f docx -t markdown_github -s -o Supplement_1.6_LongtermMaintenance.md
+
+pandoc Supplement_1.7_Long-term-preservation.docx -f docx -t markdown_github -s -o Supplement_1.7_Long-term-preservation.md
+
+pandoc Supplement_2.10_NutrientAnalysis_Litterbags.docx -f docx -t markdown_github -s -o Supplement_2.10_NutrientAnalysis_Litterbags.md
+
+pandoc Supplement_2.12_InteractionExperiments.docx -f docx -t markdown_github -s -o Supplement_2.12_InteractionExperiments.md
+
+pandoc Supplement_2.1_Sampling.docx -f docx -t markdown_github -s -o Supplement_2.1_Sampling.md
+
+pandoc Supplement_2.2_Microscopy.docx -f docx -t markdown_github -s -o Supplement_2.2_Microscopy.md
+
+pandoc Supplement_2.3_Image_analysis.docx -f docx -t markdown_github -s -o Supplement_2.3_Image_analysis.md
+
+pandoc Supplement_2.4_ParticleCounter.docx -f docx -t markdown_github -s -o Supplement_2.4_ParticleCounter.md
+
+pandoc Supplement_2.5_BacteriaDensity.docx -f docx -t markdown_github -s -o Supplement_2.5_BacteriaDensity.md
+
+pandoc Supplement_2.6_Raman.docx -f docx -t markdown_github -s -o Supplement_2.6_Raman.md
+
+pandoc Supplement_2.7_Barcoding.docx -f docx -t markdown_github -s -o Supplement_2.7_Barcoding.md
+
+pandoc Supplement_2.8_Genomics_proteomics_epigenetics.docx -f docx -t markdown_github -s -o Supplement_2.8_Genomics_proteomics_epigenetics.md
+
+pandoc Supplement_2.9_Respirometer.docx -f docx -t markdown_github -s -o Supplement_2.9_Respirometer.md
+
+pandoc Supplement_3.2_Density_manipulations.docx -f docx -t markdown_github -s -o Supplement_3.2_Density_manipulations.md
+
+pandoc Supplement_3.3_Disturbance.docx -f docx -t markdown_github -s -o Supplement_3.3_Disturbance.md
+
+pandoc Supplement_3.4_Nutrient_and_viscosity.docx -f docx -t markdown_github -s -o Supplement_3.4_Nutrient_and_viscosity.md
+
+pandoc Supplement_3.5_Spatial_Structure.docx -f docx -t markdown_github -s -o Supplement_3.5_Spatial_Structure.md
+
+pandoc Supplement_3.6_Temperature.docx -f docx -t markdown_github -s -o Supplement_3.6_Temperature.md
+
+pandoc Supplement_3.7_Biotic_environment.docx -f docx -t markdown_github -s -o Supplement_3.7_Biotic_environment.md
+
+
+2.11 and 3.1 missing from dropbox
+
+
+
+
+
+
+
+
+

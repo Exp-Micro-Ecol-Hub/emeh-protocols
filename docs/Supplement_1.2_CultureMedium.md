@@ -27,7 +27,7 @@ We describe five different and commonly used media: Bristol medium, Chalkley’s
 
 All media can be prepared by persons with basic laboratory skills (including technician and graduate students), and can be learnt within a few hours of instructions. Precaution needs to be taken during the handling of hot media (after autoclaving; only people that have been specifically instructed to the use of the autoclave at hand should use it) and during the handling of chemicals. Wearing lab coats and protective glasses is advised.
 
-![](media/image1.jpeg)
+![](media/121.png)
 
 Fig. S1. Autoclaved bottle with protozoa pellet medium ready to use. Note the black stripes on the autoclave tape indicating that it was autoclaved, and also giving date and initials of when and by whom the medium was made. The sediments at the bottom are remains of dissolved protozoa pellets, and are generally discarded.
 

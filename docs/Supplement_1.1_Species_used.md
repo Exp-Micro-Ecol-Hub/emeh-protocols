@@ -10,7 +10,7 @@ Altermatt F, Fronhofer EA, Garnier A, Giometto A, Hammes F, Klecka J, Legrand D,
 
 Species generally used for protist microcosm experiments cover several major domains of life and a large part of eukaryotic phylogenetic diversity ([Adl *et al.* 2005](#_ENREF_1); [Adl *et al.* 2012](#_ENREF_2)). Generally, and also in the following, the term “protist” covers free-living, unicellular eukaryotes that are not purely autotrophic (Fig. S1). This mostly includes species within the Cryptophyta, Foraminifera, Alveolata, Chloroplastida and Tubulinea (incl. Amoebozoa ([Adl *et al.* 2005](#_ENREF_1); [Adl *et al.* 2012](#_ENREF_2)). Very typical and commonly used representatives are species of the genera *Paramecium*, *Tetrahymena*, and *Colpidium* (all Alveolates, used in \>80 studies), as well as species of the genera *Bodo*, *Colpoda*, *Euplotes* and *Spirostomum* (all used in at least 30–50 studies). These species cover different trophic levels (purely bacterivorous heterotrophs, mixotrophs and predatory heterotrophs feeding also or exclusively on other protists). Table S1 gives a comprehensive list of species that have been used in microcosm experiment studies as discussed here. Many of the methods described in the following are also not restricted to protists, but can (and have been) also applied to single-celled autotrophic species (i.e., algae) or metazoans of similar size and ecological functional (e.g., rotifers).
 
-![](media/image1.emf)
+![](media/111.png)
 
 Fig. S1. Examples of different protist species used in microcosm experiments. A) *Blepharisma* sp., B) *Euglena* *gracilis*, C) *Paramecium* *bursaria*, D) *Colpidium* sp. All pictures by F. Altermatt/R. Illi.
 
