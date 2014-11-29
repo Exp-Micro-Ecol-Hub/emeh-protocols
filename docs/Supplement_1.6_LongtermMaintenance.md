@@ -14,7 +14,7 @@ The most important method to ensure long-term persistence is regular sub-culturi
 
 Long-term access to protist strains is not usually achieved by freezing (in contrast to bacteria for example, but see section 1.7), though some species are maintained long-term as cysts, and revived when required. This method is not described below.
 
-![](media/image1.jpeg)
+![](media/161.png)
 
 Fig. S1. Stock cultures in 250 ml glass jars with aluminium caps. Each row is a single species, with the most recent subculture in the front, and later ones towards the back. Photo by Owen Petchey.
 

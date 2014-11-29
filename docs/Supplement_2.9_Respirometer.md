@@ -28,7 +28,7 @@ Devices employing this approach need some method of sampling the headspace, and 
 
 Oxygen cells have limited life, must be regularly calibrated, should not be exposed to moist gases. Care must be taken to assure there are no leaks in gas pipes. We have found that a closed circuit respirometer is the type of device that performs best if one lab member has sole responsibility to maintain and operate it, but requires considerable training for each user. Consumables include: oxygen sensors and compounds for extracting moisture from gas.
 
-![](media/image1.jpeg)
+![](media/291.png)
 
 Fig. S1. A Columbus Instruments Micro-Oxymax Closed Circuit Respirometer. Culture vessels are in the wooden tray (lower left). Yellow tubes take gas from the headspace of the culture vessels through the black guide box to the silver and blue striped pump, dryer, and measurement boxes. The blue gas cylinder contains calibration gas. Photo by Owen Petchey.
 
@@ -38,7 +38,7 @@ This technology involves oxygen or carbon dioxide causing a chemical reaction th
 
 An example is the microplate-based respiration MicroResp<sup>TM</sup> device, which can measure respiration rate in 96 samples simultaneously. The device consists of disposable 96-well plates and a spectrophotometer microplate reader. Samples must be taken and placed in the device, and provide an estimate of the respiration rate of organisms in that sample. Any changes in composition or abundance of organisms during the colorimetry will cause deviation between the respiration in the microcosms and that measured by colorimetry.
 
-![](media/image2.jpeg)
+![](media/292.png)
 
 Fig. S2. A MicroResp<sup>TM</sup> starter kit (image from http://www.microresp.com/micro\_order.html).
 
@@ -46,7 +46,7 @@ Fig. S2. A MicroResp<sup>TM</sup> starter kit (image from http://www.microresp.c
 
 Optodes, also called chemical optical sensors, are a relatively new tool measuring environmental variables, such as gas concentration in liquids and gases. The optode is stuck on the inside surface of a culture vessel, and is read by a fibre optic cable placed on the outside of the culture vessel. The fluorescence read by the fibre optic cable is related to the concentration of dissolved gas (e.g., oxygen, carbon dioxide). Measurements are relatively fast (a couple of seconds) and require minimal training of personnel. Apart from the presence of the optode, there need be no disturbance associated with measurements. Calculations are required to transform gas concentrations into measures of rates of gas production / consumption.
 
-![](media/image3.jpeg)![](media/image4.jpeg)
+![](media/293.png)![](media/294.png)
 
 Fig. S3. Left: A sensor (optode by PreSens GmbH) glued to the inner surface of a standard culture vessel. Right: A measurement of oxygen saturation being made. Microcosms are fitted with a guide to ensure the fibre optic cable is correctly placed. Photos by Owen Petchey.
 

@@ -110,7 +110,7 @@ Finally, experiments may be done in continuous landscapes which do not different
 
 6.  Close all T-connector openings for filling in species or sampling. Therefore, remove first the amount of medium that will be replaced by medium containing species. Always make sure that sampling/adding medium happens when all openings except the one being sampled are closed, and make sure that there is a zero net change in medium volume, as otherwise laminar flow occurs.
 
-![](media/image1.emf)
+![](media/351.png)
 
 Fig. S1. Examples of protist microcosm landscapes. A) 100 mL glass jar patches connected by passive dispersal (pipetting) along a linear landscape ([example from Altermatt *et al.* 2011](#_ENREF_1)). B) 100 mL Nalgene vials connected by tubing (i.e., discrete system with active dispersal) in which active dispersal between high and low nutrient patches was manipulated ([example from Altermatt & Holyoak 2012](#_ENREF_2)). C) 10 mL multi-well plate landscape connected by passive dispersal, comparing dispersal along complex network structures and subsequent effects on diversity (dendritic vs. 2D lattice networks, example from [Carrara *et al.* 2012](#_ENREF_8); [Carrara *et al.* 2014](#_ENREF_9)). D) Continuous landscapes with active dispersal in silicon tubing (example from [Seymour & Altermatt 2014](#_ENREF_23); [Seymour, Fronhofer & Altermatt 2014](#_ENREF_24)).
 

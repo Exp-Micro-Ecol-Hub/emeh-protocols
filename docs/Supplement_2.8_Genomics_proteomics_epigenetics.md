@@ -30,7 +30,7 @@ Once massive data are generated, they are analysed using bioinformatics tools. I
 
 There is a series of general reviews on ‘omics’ (e.g., [Ge, Walhout & Vidal 2003](#_ENREF_12); [Quackenbush 2004](#_ENREF_35); [Joyce & Palsson 2006](#_ENREF_23); [Jex *et al.* 2013](#_ENREF_22))
 
-![](media/image1.emf)
+![](media/281.png)
 
 Figure S1: General framework of ‘omics’ methods applied to protist microcosms. The testing of ecological or evolutionary questions involves numerous steps requiring experimental work, molecular biology competences and most often bioinformatic treatments.**
 **

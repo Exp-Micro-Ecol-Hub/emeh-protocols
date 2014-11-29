@@ -50,7 +50,7 @@ Note that these protocols deal with sampling alone (i.e., physically withdrawing
 
 10. Make whatever measurements are required.
 
-![](media/image1.jpeg)
+![](media/211.png)
 
 Figure S1. A sample being taken from a microcosm. Photo by Florian Altermatt and Owen Petchey.
 

@@ -14,7 +14,7 @@ Most modern microscopes have an internal light source for lighting the observed 
 
 In principle, all microscopes can be accessorized with cameras and/or video-cameras (see section 2.3), allowing automated counting or species delimitations. However, even in this case it is commonly advised to regularly check the cultures by eye, as this can give information on the conditions of the cultures otherwise not available.
 
-![](media/image1.jpeg)
+![](media/221.png)
 
 Fig. S1. Two working spaces equipped with high-end stereomicroscopes and cameras. Microscopes are equipped with dark field illumination. Note: for working on the microscopes, blinds of the windows would be lowered to avoid reflections and uncontrolled illumination. Next to the microscopes, a calendar is given to reserve slots for individual work-projects. Photo by Florian Altermatt.
 

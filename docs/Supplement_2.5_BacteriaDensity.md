@@ -16,7 +16,7 @@ In the context of protist experiments, flow cytometric (FCM) analysis can be use
 
 The described methods can be used on commercially available FCM instrumentation (discussed below). Standard laboratory safety precautions (e.g., protective clothing, gloves, etc.) are advised.
 
-![](media/image1.jpeg)
+![](media/251.png)
 
 Figure S1. Density of *Tetrahymena* and a mixed bacteria culture ([for bacteria used see Giometto *et al.* 2014](#_ENREF_1)) over 310 hours. Bacteria dynamics in the control are highly significantly different compared to bacteria dynamics in a *Tetrahymena* culture.
 
@@ -94,7 +94,7 @@ Extensive details on the FCM methodology are supplied in Prest et al. ([2013](#_
 
 Figure 2 shows FCM density plots of a bacterial culture during a protist growth experiment. The bacteria were stained with SYBR Green I as described above and analyled at an appropriate dilution. Figure 2A shows the green and red fluorescence intensities (arbitrary units) of ca. 1500 bacterial cells in a clear cluster, separated from background and instrument noise with electronic gating. Figure 2B shows the forward and sideward scatter intensities of the same cells, which are indicative of cell size, again forming a relatively homogenous cluster.
 
-![](media/image2.tif)
+![](media/252.png)
 
 Figure 2. Flow cytometric density plots of an undefined bacterial community stained with SYBR Green I. FL1 = green fluorescence (530 nm); FL3 = red fluorescence (\>610 nm); FSC = forward scatter; SSC = sideward scatter.
 
